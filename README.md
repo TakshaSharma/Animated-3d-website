@@ -56,4 +56,4 @@ Contributions are what make the open source community such an amazing place to l
  This project is licensed under the MIT License.
 
  ## Contact
- sahilkhan0471@gmail.com
+ taksha.sharma08@gmail.com
