@@ -5,7 +5,11 @@ A website meticulously crafted with HTML, CSS, and JavaScript, featuring impress
 
 ## Video
 
-https://github.com/TakshaSharma/Cuberto-3d-website/assets/129105003/2bcd275e-b4cf-4d21-bcfb-9b48f7b4ca7f
+
+
+https://github.com/TakshaSharma/Cuberto-3d-website/assets/129105003/806e0df9-d60a-4007-82e3-c88558c38615
+
+
 
 
 ## Technologies Used
